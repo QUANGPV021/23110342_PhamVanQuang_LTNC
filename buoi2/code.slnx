@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="another/another.csproj" Id="9a5a8383-b1ac-40cd-9a28-9fb53b6c7403" />
+  <Project Path="ManageStudent2/ManageStudent2.csproj" Id="6079bff1-1f62-461d-a274-77bf49697489" />
+  <Project Path="manage_student/manage_student.csproj" Id="93aa0892-c5c8-433f-94b8-dd4c06583a89" />
+  <Project Path="odd_add/odd_add.csproj" Id="b3d2e94d-c7d1-47dc-82fc-23351d8dbe07" />
+</Solution>
