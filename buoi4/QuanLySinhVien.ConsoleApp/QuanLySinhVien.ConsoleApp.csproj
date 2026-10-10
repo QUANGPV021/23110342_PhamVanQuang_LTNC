@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\QuanLySinhVien\Data\Entity\*.cs" Link="Data\Entity\%(Filename)%(Extension)" />
+    <Compile Include="..\QuanLySinhVien\Data\DAL\*.cs" Link="Data\DAL\%(Filename)%(Extension)" />
+    <Compile Include="..\QuanLySinhVien\BUL\*.cs" Link="BUL\%(Filename)%(Extension)" />
+  </ItemGroup>
+
+</Project>
