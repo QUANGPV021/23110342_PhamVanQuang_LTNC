@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QuanLySinhVien/QuanLySinhVien.csproj" Id="b4c6d8e0-2f3a-4b7c-9d1e-2345678901bc" />
+  <Project Path="QuanLySinhVien.ConsoleApp/QuanLySinhVien.ConsoleApp.csproj" Id="d2e3f4a5-6b7c-8d9e-0f1a-bcdef1234567" />
+</Solution>
